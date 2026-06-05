@@ -1,1 +1,1 @@
-"# github-cicd-auto-merge-demo" 
+# github-cicd-auto-merge-demo
